@@ -1,2 +1,2 @@
 # CCLE-META
-CCLE META – Cultural &amp; Conversational AI Chatbot (Multi-language, Emotion-aware)
+CCLE META – Cultural & Conversational AI Chatbot (Multi-language, Emotion-aware)
